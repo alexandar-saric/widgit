@@ -1,5 +1,5 @@
-Feature 1 implementation
+feature 1 implementation
 
-Feature 2 implementation
+feature 2 implementation
 
-Feature 3 implementation
+feature 3 implementation
